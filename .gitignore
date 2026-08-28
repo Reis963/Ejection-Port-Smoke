@@ -1,0 +1,10 @@
+bin/
+obj/
+.dotnet-cli-home/
+.vs/
+references/
+EjectionPortSmoke/References/
+tools/
+release/
+*.user
+*.suo
